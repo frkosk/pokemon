@@ -14,7 +14,7 @@ class App extends Component {
       pokemons: [],
       pokemonDetail: [],
       pokemonDetailLoading: false,
-      limit: 10,
+      limit: 9,
       offset: 1,
       activeItem: 0
     };
